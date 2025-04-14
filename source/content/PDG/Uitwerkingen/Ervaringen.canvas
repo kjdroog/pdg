@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8d148b9d8d0d2ff6","type":"text","text":"Praktijk ervaringen","x":80,"y":-240,"width":250,"height":60},
+		{"id":"069bebc890be5408","type":"text","text":"Theorie:\nStudiewijzer Hoofdstuk 6","x":-520,"y":-240,"width":250,"height":60},
+		{"id":"d430d98e7a39a323","type":"text","text":"Mogelijke uitwerkvorm:\n- Website waarin ervaringen uitgewerkt staan, met daarin links naar de taken van de docent (en bronnen, etc.).\n- Een view op de website om over te schakelen vanuit ervaringen naar taken van de docent.","x":-207,"y":-120,"width":250,"height":384},
+		{"id":"b0b66fef24544746","type":"text","text":"Portfolio docent ervaringen","x":-180,"y":-239,"width":195,"height":58},
+		{"id":"0d1995bea49364d0","type":"text","text":"Verrrijken van ervaringen\nAan de hand van de feedback die je hebt opgehaald en de inzichten over het zichtbaar maken van ervaringen, ga je jouw ervaringen verrijken.\n\nBron: module 2.2 - ochtendprogramma powerpoint - slide 8 ","x":-520,"y":-120,"width":250,"height":331}
+	],
+	"edges":[
+		{"id":"6e601065b59645ee","fromNode":"b0b66fef24544746","fromSide":"right","toNode":"8d148b9d8d0d2ff6","toSide":"left"},
+		{"id":"95e1a7425ac4835c","fromNode":"b0b66fef24544746","fromSide":"left","toNode":"069bebc890be5408","toSide":"right"},
+		{"id":"fe654d86b5985f94","fromNode":"b0b66fef24544746","fromSide":"bottom","toNode":"d430d98e7a39a323","toSide":"top"},
+		{"id":"392426ef85ea780a","fromNode":"069bebc890be5408","fromSide":"bottom","toNode":"0d1995bea49364d0","toSide":"top"}
+	]
+}

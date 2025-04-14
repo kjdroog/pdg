@@ -1,81 +1,259 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "5be630f960614ae7",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "2e356bd635db9141",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "b2bc7aef0d832c1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "PDG/Boeken/PDG Boek - De zes rollen van de leraar.canvas",
+                "viewState": {
+                  "x": 6182.1225553909635,
+                  "y": -525.7606351526343,
+                  "zoom": 0.07144931079117767
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "PDG Boek - De zes rollen van de leraar"
             }
           },
           {
-            "id": "2d8837e6263008e3",
+            "id": "21a312a402a16efe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "PDG/Lesverslagen/Lesdag 4 - 22-11-2024.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Lesdag 4 - 22-11-2024"
+            }
+          },
+          {
+            "id": "9a749e0b71fbe512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opdracht Persoonlijke Agenda Applicatie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Opdracht Persoonlijke Agenda Applicatie"
+            }
+          },
+          {
+            "id": "c8514965b5f7bb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDG/Portfolio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Portfolio"
+            }
+          },
+          {
+            "id": "0d05aa0e7048e6ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDG/Lesverslagen/Lesdag 11 - 28-03-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesdag 11 - 28-03-2025"
+            }
+          },
+          {
+            "id": "95912a5b3e5efaf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDG/Lesverslagen/Lesdag 5 - 06-12-2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesdag 5 - 06-12-2024"
+            }
+          },
+          {
+            "id": "a9b422c95cbce4c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDG/Lesverslagen/Lesdag 5 - 06-12-2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesdag 5 - 06-12-2024"
+            }
+          },
+          {
+            "id": "216985e6817a61ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDG/Lesverslagen/Lesdag 6 - 17-01-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesdag 6 - 17-01-2025"
+            }
+          },
+          {
+            "id": "1bb22be06f8e8e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDG/Lesverslagen/Lesdag 7 - 31-01-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesdag 7 - 31-01-2025"
+            }
+          },
+          {
+            "id": "18bf438372d0ab30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDG/Lesverslagen/Lesdag 8 - 14-02-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesdag 8 - 14-02-2025"
+            }
+          },
+          {
+            "id": "5c938e738de88749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDG/Lesverslagen/Lesdag 9 - 28-02-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesdag 9 - 28-02-2025"
+            }
+          },
+          {
+            "id": "2ef3de11f11ffbe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDG/Lesverslagen/Lesdag 11 - 28-03-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesdag 11 - 28-03-2025"
+            }
+          },
+          {
+            "id": "7ef3699e43c9a48d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDG/Portfolio.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Portfolio"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "40477def44494fd5",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "8cdd1885ab3619ff",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "2d53d1990d3f106d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "934d42a71d7f40c6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "3ea412823142b8f8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,20 +263,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "08a92d4550a154eb",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "250c706e02782566",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "1cd846723a6ee8ac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "PDG/Lesverslagen/Lesdag 12 - 11-04-2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,43 +284,57 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lesdag 12 - 11-04-2025"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "2ddfb45a7c70389d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "PDG/Lesverslagen/Lesdag 12 - 11-04-2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lesdag 12 - 11-04-2025"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "7339d24a3ba5fb2e",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "5be2a871387d298c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "file": "PDG/Portfolio.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Portfolio"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -151,7 +343,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -160,11 +351,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "7ef3699e43c9a48d",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "index.md",
-    "category-folder"
+    "Afbeelding van WhatsApp op 2025-04-04 om 14.58.34_054ab18c.jpg",
+    "Opdracht Persoonlijke Agenda Applicatie.md",
+    "Ondersteunend Document Visueel ontwerpen Opdracht 10.md",
+    "Pasted image 20250404152108.png",
+    "Pasted image 20250404151902.png",
+    "Untitled.md",
+    "PDG/Boeken/PDG Boek - De zes rollen van de leraar.canvas",
+    "PDG/Lesverslagen/Lesdag 12 - 11-04-2025.md",
+    "PDG/Lesverslagen/Lesdag 11 - 28-03-2025.md",
+    "PDG/Uitwerkingen/Opdracht Gastheer-presentator.md",
+    "PDG/Uitwerkingen/Opdracht gastheer-presentator filmen.md",
+    "PDG/Uitwerkingen/Praktijk ervaringen.md",
+    "PDG/Uitwerkingen/Opdracht Zicht op leren bij de werkplekken.md",
+    "PDG/Portfolio.md",
+    "PDG/PDG - taken.md",
+    "PDG/PDG.canvas",
+    "PDG/Studiewijzer/PDG - studiewijzer.canvas",
+    "PDG/Studiewijzer/Checklist 6 taken van de docent.md",
+    "PDG/Uitwerkingen/Ervaringen.canvas",
+    "PDG/Lesverslagen/Lesdag 1 - 11-10-2024.md",
+    "PDG/Lesverslagen/Lesdag 10 - 14-03-2025.md",
+    "PDG/Lesverslagen/Lesdag 6 - 17-01-2025.md",
+    "PDG/Lesverslagen/Lesdag 5 - 06-12-2024.md",
+    "PDG/Lesverslagen/Lesdag 7 - 31-01-2025.md",
+    "PDG/Lesverslagen/Lesdag 8 - 14-02-2025.md",
+    "PDG/Lesverslagen/Lesdag 9 - 28-02-2025.md",
+    "PDG/Lesverslagen/Lesdag 4 - 22-11-2024.md",
+    "PDG/Lesverslagen/Lesdag 2 - 25-10-2024.md",
+    "PDG/Lesverslagen/Lesdag 3 - 08-11-2024.md",
+    "Afbeelding van WhatsApp op 2025-04-04 om 15.28.31_75225527.jpg",
+    "PDG/Lesverslagen/Lesdag 10.md",
+    "Ondersteunend Document Visueel Ontwerpen Opdracht 10 1.md",
+    "2024-10-04.md",
+    "Untitled.canvas",
+    "PDG/Lesverslagen",
+    "PDG/Uitwerkingen",
+    "PDG/Studiewijzer",
+    "PDG/Boeken",
+    "PDG",
+    "Untitled 2.canvas"
   ]
 }

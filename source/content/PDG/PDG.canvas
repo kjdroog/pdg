@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d6d44c9016c83397","type":"file","file":"PDG/PDG - taken.md","x":-740,"y":-420,"width":600,"height":1016},
+		{"id":"8efda260c12f3d49","type":"file","file":"PDG/Studiewijzer/PDG - studiewijzer.canvas","x":-100,"y":-420,"width":400,"height":400},
+		{"id":"0a01c4ad28bac313","type":"file","file":"PDG/Boeken/PDG Boek - De zes rollen van de leraar.canvas","x":340,"y":-420,"width":400,"height":400},
+		{"id":"8feec3febe4c121d","type":"file","file":"PDG/Uitwerkingen/Opdracht Gastheer-presentator.md","x":-100,"y":-880,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e37585cb7a7124e9","fromNode":"d6d44c9016c83397","fromSide":"right","toNode":"8feec3febe4c121d","toSide":"left"}
+	]
+}

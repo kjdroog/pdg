@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"0b0801d0b7c28923","type":"text","text":"Studiebelasting:\n60 EC (European Credit), 1 EC = 28 uur\nTotaal = 1680 uur\nIn dagen (8 uur per dag) = 1680 / 8 = 210 dagen","x":-496,"y":-275,"width":416,"height":135},
+		{"id":"d2f005e8cdca8ee5","type":"text","text":"NHL Stenden Hogeschool PDG:\n- Design Based Education\n\t- Sociaal-constructivistisch\n\t- contextueel\n\t- zelfregulerend\n\t- samenwerkend leren","x":0,"y":-275,"width":312,"height":235},
+		{"id":"60d85ae72ba1c740","type":"text","text":"4.3.4 De reflectieve professional: cyclisch leren\n- Voorafgaande aan een beoordeling feedback vragen aan je begeleider op de werkplek, collega's, mededeelnemers, en je NHL Stenden begeleider","x":380,"y":-275,"width":421,"height":170},
+		{"id":"ae0ee4313a99c69a","type":"text","text":"4.4 Onderzoekend vermogen\n- Onderzoekend vermogen is gericht op het verhogen van de kwaliteit van het eigen professionele handelen.\n- Onderzoekend vermogen is bedoeld om innovatieve, reflectieve en evidence informed werkende professionals op te leiden.\n- Onderzoeken vermogen:\n\t- Onderzoekende houding & onderzoekend handelen\n\t- onderzoekskennis & -vaardigheden\n\t- het toepassen van kennis uit theorie (uit onderzoek)\n\n**Onderzoekende houding zichtbaar maken in uitwerkingsvormen en ervaringen!**","x":380,"y":-80,"width":421,"height":458},
+		{"id":"32e4e031a5270e4b","type":"text","text":"Onderwijsdag (module 1 t/m 7)\n- 9-10 COL (Community of learning)\n- 10-12 Workshop\n- 13-14.30 Leerplaats\n- 14.30-16 Oefenplaats","x":0,"y":0,"width":312,"height":210},
+		{"id":"652a05a4d0c561a8","type":"text","text":"Onderwijsdag (module 8 t.m 14)\n- 9-10 COL (Community of learning)\n- 10-12 Workshop\n- 13-16 Leerplaats","x":0,"y":260,"width":312,"height":176},
+		{"id":"e3a75c4195bafadd","type":"text","text":"**Afsluiting met pitch aan je team en leden van de leergroep**\n- Meenemen in wat dit jaar jou heeft gebracht m.b.t. je rol als mbo-docent","x":-360,"y":20,"width":321,"height":170},
+		{"id":"015233a3cd06543c","type":"text","text":"Na module 14 alleen in de ochtend leerplaats","x":0,"y":500,"width":312,"height":60},
+		{"id":"83a01c32260d1382","type":"text","text":"Hfst 6 Het leren zichtbaar maken\n6.1 Werkwijze\n- Cyclisch werken\n- Portfolio opbouwen\n- Opdoen van ervaringen\nBijlagen\n- J: De elemeenten van jouw leerontwikkeling tot mbo docent\n- B checklist 6 taken van de mbo docent\nBronnen\n- Ervaringen en uitwerkingen koppelen aan bronnen:\n\t- Informatie van begeleiders\n\t- informatie uit de onderwijsdagen\n\t- informatie van collega's of mededeelnemers\n\t- informatie uit boeken of betrouwbare internetbronnen en (verplichte) literatuur\n- Bronvermelding volgens APA-richtlijnen!\nBeelden\n- Beeldopnamen maken van jezelf\n- Hierop terugblikken met werkplekbegeleider, leergroep en anderen","x":860,"y":-275,"width":380,"height":723},
+		{"id":"243ac288694ced60","type":"text","text":"6.2 Het onderzoekend vermogen zichtbaar maken\n- je onderzoekende houding\n\t- OVUR model: orientatie, voorbereiding, uitvoering, reflectie\n- Methodisch en planmatig je onderzoekskennis en vaardigheden in te zetten\nMethodisch onderzoek in jouw praktijk\n- Praktijkonderzoek uitvoeren op planmatige wijze\n\t- **Onderzoeksverslag/verwerking van het onderzoek volgens de daarbij passende criteria uit de bijlagen (GI t/m IV)**\n- Passende vorm kiezen i.s.m. studiebegeleider en werkplekbegeleider\n\t- Voordat je start met uitwerking!","x":860,"y":487,"width":380,"height":541},
+		{"id":"c2feabdca87b6e5c","type":"text","text":"6.3 Maken van een portfolio\n**Je ontwerpt zelf je portfolio**\n- Kies een vorm\n\t- Verplichte onderdelen zie pag. 25\n\n**Portfolio moet voldoen aan de VRAAK-criteria!**","x":860,"y":1093,"width":380,"height":224},
+		{"id":"a7ed6310c5c71fd9","type":"text","text":"**Portfolio ideeen:**\n- Thema met layout van computer (dus CPU, werkgeheugen, GPU, opslag, AI-chip?) waarmee analogieen gemaakt kunnen worden\n- Thema boom/bos/natuur\n- Algemeen: thema gericht op dat doordat ik als docent groei ik mijn studenten ook beter kan laten groeien (in hun leerproces)","x":460,"y":1103,"width":360,"height":204}
+	],
+	"edges":[
+		{"id":"5a9595bb3a76679c","fromNode":"0b0801d0b7c28923","fromSide":"right","toNode":"d2f005e8cdca8ee5","toSide":"left"},
+		{"id":"b1b6162888bbec57","fromNode":"d2f005e8cdca8ee5","fromSide":"right","toNode":"60d85ae72ba1c740","toSide":"left"},
+		{"id":"74c2ecab74df75ff","fromNode":"d2f005e8cdca8ee5","fromSide":"right","toNode":"ae0ee4313a99c69a","toSide":"left"},
+		{"id":"4fe80e043a7dc721","fromNode":"d2f005e8cdca8ee5","fromSide":"bottom","toNode":"32e4e031a5270e4b","toSide":"top"},
+		{"id":"4935182fcca9d8bd","fromNode":"32e4e031a5270e4b","fromSide":"bottom","toNode":"652a05a4d0c561a8","toSide":"top"},
+		{"id":"1b86cf45ac1dbc53","fromNode":"32e4e031a5270e4b","fromSide":"left","toNode":"e3a75c4195bafadd","toSide":"right"},
+		{"id":"555c19efa3a4d67d","fromNode":"652a05a4d0c561a8","fromSide":"bottom","toNode":"015233a3cd06543c","toSide":"top"},
+		{"id":"43e845d04cc80fb9","fromNode":"d2f005e8cdca8ee5","fromSide":"top","toNode":"83a01c32260d1382","toSide":"top"},
+		{"id":"a6470f39eac1449a","fromNode":"83a01c32260d1382","fromSide":"bottom","toNode":"243ac288694ced60","toSide":"top"},
+		{"id":"19d15e8b0d8fafc5","fromNode":"243ac288694ced60","fromSide":"bottom","toNode":"c2feabdca87b6e5c","toSide":"top"},
+		{"id":"775893392656be0a","fromNode":"c2feabdca87b6e5c","fromSide":"left","toNode":"a7ed6310c5c71fd9","toSide":"right"}
+	]
+}
