@@ -184,7 +184,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PDG/Lesverslagen/Lesdag 6 - 17-01-2025.md",
+                "file": "PDG/Lesverslagen/Lesdag 8 - 14-02-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -199,7 +199,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lesdag 6 - 17-01-2025"
+              "title": "Lesdag 8 - 14-02-2025"
             }
           }
         ],
@@ -235,7 +235,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "krachtigere",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,7 +256,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -354,14 +355,14 @@
   },
   "active": "7ef3699e43c9a48d",
   "lastOpenFiles": [
-    "PDG/Lesverslagen/Lesdag 5 - 06-12-2024.md",
+    "PDG/Lesverslagen/Lesdag 11 - 28-03-2025.md",
     "PDG/Lesverslagen/Lesdag 6 - 17-01-2025.md",
+    "PDG/Lesverslagen/Lesdag 5 - 06-12-2024.md",
     "PDG/Lesverslagen/Lesdag 7 - 31-01-2025.md",
     "PDG/Lesverslagen/Lesdag 8 - 14-02-2025.md",
     "PDG/Lesverslagen/Lesdag 9 - 28-02-2025.md",
     "PDG/Lesverslagen/Lesdag 10 - 14-03-2025.md",
     "PDG/Lesverslagen/Lesdag 12 - 11-04-2025.md",
-    "PDG/Lesverslagen/Lesdag 11 - 28-03-2025.md",
     "PDG/PDG - taken.md",
     "PDG/Portfolio.md",
     "PDG/index.md",
