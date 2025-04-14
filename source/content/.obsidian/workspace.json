@@ -348,11 +348,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ef3699e43c9a48d",
+  "active": "2d53d1990d3f106d",
   "lastOpenFiles": [
+    "PDG/index.md",
+    "index.md",
     "Afbeelding van WhatsApp op 2025-04-04 om 14.58.34_054ab18c.jpg",
     "Opdracht Persoonlijke Agenda Applicatie.md",
     "Ondersteunend Document Visueel ontwerpen Opdracht 10.md",
@@ -385,7 +388,6 @@
     "Afbeelding van WhatsApp op 2025-04-04 om 15.28.31_75225527.jpg",
     "PDG/Lesverslagen/Lesdag 10.md",
     "Ondersteunend Document Visueel Ontwerpen Opdracht 10 1.md",
-    "2024-10-04.md",
     "Untitled.canvas",
     "PDG/Lesverslagen",
     "PDG/Uitwerkingen",
