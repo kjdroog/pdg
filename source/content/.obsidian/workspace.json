@@ -184,7 +184,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PDG/Lesverslagen/Lesdag 8 - 14-02-2025.md",
+                "file": "PDG/Lesverslagen/Lesdag 12 - 11-04-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -199,11 +199,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lesdag 8 - 14-02-2025"
+              "title": "Lesdag 12 - 11-04-2025"
+            }
+          },
+          {
+            "id": "99dde29b7025e12a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDG/Lesverslagen/Lesdag 13 - 9-5-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lesdag 13 - 9-5-2025"
+            }
+          },
+          {
+            "id": "9a2205e6ba15ef93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDG/Lesverslagen/Lesdag 15 - 06-06-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lesdag 15 - 06-06-2025"
+            }
+          },
+          {
+            "id": "9147d824ee5a4420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "01051b68b5df8d59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eindopdracht 6 Containerized Task Manager met Database in Docker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Eindopdracht 6 Containerized Task Manager met Database in Docker"
+            }
+          },
+          {
+            "id": "e0e52d6b37bd9bb5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
+            "id": "f15455b3df9201ad",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Afbeelding van WhatsApp op 2025-04-04 om 14.58.34_054ab18c.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Afbeelding van WhatsApp op 2025-04-04 om 14.58.34_054ab18c"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -235,7 +355,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "krachtigere",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,8 +376,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -344,6 +463,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -353,42 +473,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ef3699e43c9a48d",
+  "active": "f15455b3df9201ad",
   "lastOpenFiles": [
-    "PDG/Lesverslagen/Lesdag 11 - 28-03-2025.md",
-    "PDG/Lesverslagen/Lesdag 6 - 17-01-2025.md",
-    "PDG/Lesverslagen/Lesdag 5 - 06-12-2024.md",
-    "PDG/Lesverslagen/Lesdag 7 - 31-01-2025.md",
-    "PDG/Lesverslagen/Lesdag 8 - 14-02-2025.md",
-    "PDG/Lesverslagen/Lesdag 9 - 28-02-2025.md",
-    "PDG/Lesverslagen/Lesdag 10 - 14-03-2025.md",
-    "PDG/Lesverslagen/Lesdag 12 - 11-04-2025.md",
-    "PDG/PDG - taken.md",
-    "PDG/Portfolio.md",
-    "PDG/index.md",
+    "Afbeelding van WhatsApp op 2025-04-04 om 15.28.31_75225527.jpg",
+    "Eindopdracht 6 Containerized Task Manager met Database in Docker.md",
     "index.md",
-    "Afbeelding van WhatsApp op 2025-04-04 om 14.58.34_054ab18c.jpg",
-    "Opdracht Persoonlijke Agenda Applicatie.md",
-    "Ondersteunend Document Visueel ontwerpen Opdracht 10.md",
     "Pasted image 20250404152108.png",
     "Pasted image 20250404151902.png",
-    "Untitled.md",
-    "PDG/Boeken/PDG Boek - De zes rollen van de leraar.canvas",
-    "PDG/Uitwerkingen/Opdracht Gastheer-presentator.md",
-    "PDG/Uitwerkingen/Opdracht gastheer-presentator filmen.md",
-    "PDG/Uitwerkingen/Praktijk ervaringen.md",
-    "PDG/Uitwerkingen/Opdracht Zicht op leren bij de werkplekken.md",
-    "PDG/PDG.canvas",
-    "PDG/Studiewijzer/PDG - studiewijzer.canvas",
-    "PDG/Studiewijzer/Checklist 6 taken van de docent.md",
-    "PDG/Uitwerkingen/Ervaringen.canvas",
-    "PDG/Lesverslagen/Lesdag 1 - 11-10-2024.md",
+    "PDG/PDG - taken.md",
+    "PDG/Lesverslagen/Lesdag 15 - 06-06-2025.md",
+    "PDG/Lesverslagen/Lesdag 16 - 20-06-2025.md",
+    "PDG/Lesverslagen/Lesdag 14 - 23-5-2025.md",
+    "PDG/Lesverslagen/Lesdag 13 - 9-5-2025.md",
+    "PDG/Lesverslagen/Lesdag 12 - 11-04-2025.md",
+    "PDG/Lesverslagen/Lesdag 11 - 28-03-2025.md",
+    "PDG/Lesverslagen/Lesdag 10 - 14-03-2025.md",
+    "PDG/Lesverslagen/Lesdag 9 - 28-02-2025.md",
+    "PDG/Lesverslagen/Lesdag 8 - 14-02-2025.md",
+    "PDG/Lesverslagen/Lesdag 7 - 31-01-2025.md",
+    "PDG/Lesverslagen/Lesdag 6 - 17-01-2025.md",
+    "PDG/Lesverslagen/Lesdag 5 - 06-12-2024.md",
     "PDG/Lesverslagen/Lesdag 4 - 22-11-2024.md",
-    "PDG/Lesverslagen/Lesdag 2 - 25-10-2024.md",
     "PDG/Lesverslagen/Lesdag 3 - 08-11-2024.md",
-    "Afbeelding van WhatsApp op 2025-04-04 om 15.28.31_75225527.jpg",
-    "PDG/Lesverslagen/Lesdag 10.md",
-    "Ondersteunend Document Visueel Ontwerpen Opdracht 10 1.md",
+    "PDG/Lesverslagen/Lesdag 2 - 25-10-2024.md",
+    "PDG/Lesverslagen/Lesdag 1 - 11-10-2024.md",
+    "PDG/Portfolio.md",
+    "PDG/Studiewijzer/Checklist 6 taken van de docent.md",
+    "PDG/Studiewijzer/PDG - studiewijzer.canvas",
+    "PDG/PDG.canvas",
+    "PDG/Uitwerkingen/Opdracht Zicht op leren bij de werkplekken.md",
+    "PDG/Uitwerkingen/Ervaringen.canvas",
+    "PDG/Uitwerkingen/Praktijk ervaringen.md",
+    "PDG/index.md",
+    "Afbeelding van WhatsApp op 2025-04-04 om 14.58.34_054ab18c.jpg",
+    "Opdracht Persoonlijke Agenda Applicatie.md",
+    "PDG/Boeken/PDG Boek - De zes rollen van de leraar.canvas",
     "Untitled.canvas",
     "PDG/Lesverslagen",
     "PDG/Uitwerkingen",
