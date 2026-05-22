@@ -1,9 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: PDG Portfolio Kees-Jan Droog
 ---
 
-Hello world!
-
-Write some words here!
-
-Woohoo this work!
+Intro
