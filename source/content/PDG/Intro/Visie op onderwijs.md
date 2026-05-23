@@ -1,3 +1,6 @@
+---
+title: Visie op onderwijs
+---
 # Visie op onderwijs
 
 Mijn visie op onderwijs is sterk verbonden met mijn achtergrond in de softwareontwikkeling en mijn ervaring in het begeleiden van nieuwe medewerkers en leerlingen. In zowel mijn werk als software developer als tijdens het geven van wiskundebijles heb ik ervaren dat mensen het meest leren wanneer begeleiding aansluit bij hun persoonlijke leerproces. Die ervaring neem ik mee in mijn rol als docent.
