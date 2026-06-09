@@ -4,6 +4,7 @@ title: PDG Portfolio Kees-Jan Droog
 Voorblad
 
 | Voor- en Achternaam student                                                           | Kees-Jan Droog                           |
+| ------------------------------------------------------------------------------------- | ---------------------------------------- |
 | Studentnummer                                                                         | 900003157                                |
 | NHL Stenden e-mailadres                                                               | kees-jan.droog@student.nhlstenden.com    |
 | Opleiding                                                                             | PDG                                      |
