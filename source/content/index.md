@@ -16,3 +16,5 @@ Voorblad
 | Gebruikte handleiding (met vermelding van het studiejaar dat op de handleiding staat) | Studiewijzer Najaar 2024                 |
 | Afstudeerrichting                                                                     | Pedagogisch Didactisch Getuigschrift PDG |
 | Progresscode van de onderwijseenheid zoals die in jouw leerplan staat                 |                                          |
+
+Door het inleveren van dit product (werkstuk, verslag etc.) verklaar ik dat het product eigen werk is en dat het vrij is van fraude zoals in het onderwijs- en examenreglement artikel 6.17 lid 4 sub f, g en h is beschreven.
